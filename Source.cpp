@@ -23,6 +23,6 @@ void main()
 		if (buffer > classes) classes = buffer;
 		buffer = 0;
 	}
-	cout << classes << " classroms \n";
+	cout << classes << " classroms \n"; // code
 	system("pause");
 }
